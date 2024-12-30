@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm a Software Web Developer.</h1>
+<h1>Hi there👋, I'm a Software Web Developer.</h1>
 <p>A software engineer with a strong ambition to enhance both technical and soft skills, enabling me to effectively manage all roles within a project, lead a team, and develop useful products for the community. </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -29,5 +29,4 @@
 <a target="_blank" href="https://www.facebook.com/duonglam44" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/_tonyonig_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
-
-### Click [here](https://www.topcv.vn/xem-cv/V1cFX19UDQQGWgNUBgRQUAUGB1MGW1QHUAhVUAf992) to figure out my CV.
+### Click [here](https://www.topcv.vn/xem-cv/V1cFX19UDQQGWgNUBgRQUAUGB1MGW1QHUAhVUAf992){:target="_blank"} to figure out my CV.
