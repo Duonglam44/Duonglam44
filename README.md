@@ -29,4 +29,4 @@
 <a target="_blank" href="https://www.facebook.com/duonglam44" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/_tonyonig_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
-### Click <a href="https://www.topcv.vn/xem-cv/V1cFX19UDQQGWgNUBgRQUAUGB1MGW1QHUAhVUAf992" target="_blank" rel="noopener noreferrer">here</a> to figure out my CV.
+Click <a href="https://www.topcv.vn/xem-cv/V1cFX19UDQQGWgNUBgRQUAUGB1MGW1QHUAhVUAf992" target="_blank">here</a> to figure out my CV.
